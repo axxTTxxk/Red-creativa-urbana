@@ -1,61 +1,55 @@
 # 🎨 Red Creativa Urbana
 
-**Red Creativa Urbana** es un movimiento artístico que conecta expresiones digitales y urbanas desde Latinoamérica hacia el mundo. Este sitio web es su plataforma oficial: un espacio donde artistas independientes, tiendas culturales y colectivos creativos se unen para visibilizar, colaborar y resistir.
+**Red Creativa Urbana** es una plataforma para artistas independientes que fusionan arte urbano y digital desde Latinoamérica. Aquí podrás explorar quiénes somos, ver una galería visual dinámica y contactarnos, todo desde una experiencia visual y libre.
 
 ---
 
-## 🧠 ¿Qué es este sitio?
+## 🚀 ¿Qué ofrece este sitio?
 
-Un sitio web creado por y para artistas, con secciones sobre:
-
-- 🌆 Quiénes somos
-- 🎯 Objetivo del movimiento
-- 🔥 Logros destacados en arte urbano y digital
-- 🖼️ Galería con mural visual original
-- 🛍️ Directorio de tiendas independientes
+- 🌆 Información del movimiento
+- 🔥 Logros destacados del colectivo
+- 🎨 Galería urbana y digital
+- 🛒 Directorio de tiendas independientes
 - 📩 Formulario de contacto con Google Forms
+- 🔧 **Panel de edición privado** conectado a Firebase
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## 🔐 Acceso administrador
 
-- HTML5 y CSS3 puros
-- AOS (Animate on Scroll) para animaciones
-- Google Fonts – Orbitron
-- Google Forms incrustado
-- Optimizado para GitHub Pages y Netlify
+Puedes modificar el sitio desde `/admin.html`:
 
----
+📍 [https://axxTTxxk.github.io/red-creativa-urbana/admin.html](https://axxTTxxk.github.io/red-creativa-urbana/admin.html)
 
-## ✊ Hecho con propósito
-
-> “Desde los muros hasta los píxeles: creamos donde otros censuran.”  
-> *– AXXTTxxK*
+> Acceso protegido por contraseña (solo para el administrador del proyecto).
 
 ---
 
-## 🚀 Ver en vivo
+## ⚙️ Tecnologías
 
-📡 [https://axxTTxxk.github.io/red-creativa-urbana](https://axxTTxxk.github.io/red-creativa-urbana)
-
----
-
-## 📦 Cómo subir este sitio
-
-1. Descarga el archivo `red_creativa_urbana_FORMULARIO_ACTUALIZADO.zip`
-2. Extrae su contenido
-3. Sube los archivos (no el zip) a tu repositorio en GitHub
-4. Ve a Settings → Pages → Activa GitHub Pages desde la rama `main` y carpeta `/ (root)`
-5. ¡Listo! Tu sitio estará en línea en segundos.
+- HTML5 + CSS3
+- Firebase Firestore (para contenido)
+- Firebase Storage (para imágenes)
+- Google Fonts
+- AOS.js (animaciones)
+- GitHub Pages (hosting gratuito)
 
 ---
 
-## 🧩 Créditos
+## 🧑‍🎨 Autor
 
-- Diseño web y visual: AXXTTxxK
-- Logo y mural digital generado con herramientas de arte AI
-- Código y estructura asistido por ChatGPT
+Creado por **AxxTTxxK**  
+Con asistencia técnica de ChatGPT y Firebase
 
 ---
 
-🖤 Red Creativa Urbana – “Arte libre, poder real.”
+## 📦 Cómo clonar este repositorio
+
+```bash
+git clone https://github.com/AxxTTxxK/red-creativa-urbana.git
+cd red-creativa-urbana
+```
+
+---
+
+🖤 *Desde los muros hasta los píxeles: creamos donde otros censuran.*
